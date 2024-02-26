@@ -1,4 +1,3 @@
 # demorepo
 this is my first git repository
-<br>
-author-arya davare
+author-arya chandrakant davare
